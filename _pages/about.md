@@ -21,7 +21,7 @@ social: false  # includes social icons at the bottom of the page
 
 My name is Ram Ekstrom and I am a second year PhD student at the University of Michigan. My advisor is <a href="https://dept.math.lsa.umich.edu/~smdbackr/">Stephen DeBacker</a> and I like to think about p-adic reductive groups and harmonic analysis on them.
 
-I graduated with a M.Sc from the <a href="https://lsa.umich.edu/math/graduates/GraduateStudentHandbook/the-marjorie-lee-browne-scholars-program.html">Marjorie Lee Browne Scholars Program</a> in 2022. Before that I was an undergraduate at the University of Colorado.
+I obtained my M.Sc through the <a href="https://lsa.umich.edu/math/graduates/GraduateStudentHandbook/the-marjorie-lee-browne-scholars-program.html">Marjorie Lee Browne Scholars Program</a> in 2022. Before that I was an undergraduate at the University of Colorado.
 
 <b><ins>Teaching</ins></b><br>
 I have taught several courses at Michigan as a GSI.
