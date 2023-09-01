@@ -23,3 +23,14 @@ My name is Ram Ekstrom and I am a second year PhD student at the University of M
 
 I graduated with a M.Sc from the <a href="https://lsa.umich.edu/math/graduates/GraduateStudentHandbook/the-marjorie-lee-browne-scholars-program.html">Marjorie Lee Browne Scholars Program</a> in 2022. Before that I was an undergraduate at the University of Colorado.
 
+<b>Teaching</b>
+I have taught several courses at Michigan as a GSI.
+<ul>
+  <li>Math 115 (Fall 2023)</li>
+  <li>Math 116 (Winter 2023)</li>
+  <li>Math 215 (Fall 2022)</li>
+  <li>Math 115 (Fall 2021)</li>
+  <li>Math 115 (Winter 2021)</li>
+  <li>Math 115 (Fall 2020)</li>
+</ul>
+
