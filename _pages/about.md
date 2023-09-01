@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle:   <font size="3">Email:</font> <font size="2">rekstrom "at umich.edu"</font>
+subtitle:   <font size="2.5">Email:</font> <font size="2">rekstrom "at umich.edu"</font>
 
 profile:
   align: right
