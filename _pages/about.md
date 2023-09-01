@@ -29,6 +29,7 @@ I have taught several courses at Michigan as a GSI.
   <li>Math 115 (Fall 2023)</li>
   <li>Math 116 (Winter 2023)</li>
   <li>Math 215 (Fall 2022)</li>
+  <li>Math 115 (Summer 2022)</li>
   <li>Math 115 (Fall 2021)</li>
   <li>Math 115 (Winter 2021)</li>
   <li>Math 115 (Fall 2020)</li>
