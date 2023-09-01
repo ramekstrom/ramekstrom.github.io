@@ -11,7 +11,7 @@ profile:
   address: >
     <p>East Hall 3860</p>
     <p>530 Church St</p>
-    <p>Ann Arbor, Michigan</p>
+    <p>Ann Arbor, Michigan USA</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
