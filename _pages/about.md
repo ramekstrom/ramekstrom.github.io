@@ -22,7 +22,7 @@ Listed below are some of the talks that I have given in the past.
 
 - *Reductive subgroups associated to points in the Bruhat–Tits building*, 2025 Fall Southeastern Sectional Meeting, Tulane University, October 2025
 - *Who lives in the Bruhat–Tits building?*, Student NT Seminar, University of Michigan, September 2025
-- *Character formulas for limits of discrete series of p-adic $\mathrm{SL}_2$*, AWS 2025, University of Arizona, March 2025
+- *Character formulas for limits of discrete series of $p$-adic $\mathrm{SL}_2$*, AWS 2025, University of Arizona, March 2025
 - *Some facts about Bruhat–Tits theory*, Student NT Seminar, University of Michigan, February 2025
 - *Twisting up groups*, Student NT Seminar, University of Michigan, January 2025
 - *Shalika germs*, Student NT Seminar, University of Michigan, October 2024
