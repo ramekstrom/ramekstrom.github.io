@@ -1,6 +1,19 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang }}">
 
+<!-- MathJax site-wide -->
+<script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$','$$'], ['\\[','\\]']]
+    }
+  };
+</script>
+<script async id="MathJax-script"
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+
+  
   <!-- Head -->
   <head>
   {%- if page.redirect -%}
