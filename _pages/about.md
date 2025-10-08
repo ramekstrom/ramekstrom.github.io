@@ -14,19 +14,20 @@ My name is Ram Ekstrom and I am a fourth year PhD candidate at the University of
 
 I obtained my M.Sc through the <a href="https://lsa.umich.edu/math/graduates/GraduateStudentHandbook/the-marjorie-lee-browne-scholars-program.html">Marjorie Lee Browne Scholars Program</a> in 2022. Before that I was an undergraduate at the <a href="https://www.colorado.edu/math/">University of Colorado</a>.
 
-<b><ins>Talks</ins></b><br>
+**<ins>Talks</ins>**
+
 Listed below are some of the talks that I have given in the past.
-<ul>
-  <li><em>Reductive subgroups associated to points in the Bruhat-Tits building</em>, 2025 Fall Southeastern Sectional Meeting, Tulane University, October 2025</li>
-  <li><em>Who lives in the Bruhat-Tits building?</em>, Student NT Seminar, University of Michigan, September 2025</li>
-  <li><em>Character formulas for limits of discrete series of p-adic $`\mathrm{SL}_2`$</em>, AWS 2025, University of Arizona, March 2025</li>
-  <li><em>Some facts about Bruhat-Tits theory</em>, Student NT Seminar, University of Michigan, February 2025</li>
-  <li><em>Twisting up groups</em>, Student NT Seminar, University of Michigan, January 2025</li>
-  <li><em>Shalika germs</em>, Student NT Seminar, University of Michigan, October 2024</li>
-  <li><em>Motivating endoscopy via an example with $`\mathrm{SL}_2`$</em>, Student NT Seminar, University of Michigan, March 2024</li>
-  <li><em>Endoscopy and the Fundamental Lemma</em>, Student Arithmetic Seminar, University of Michigan, March 2023</li>
-  <li><em>Embeddings of Bruhat-Tits buildings</em>, MLB Colloquium, University of Michigan, April 2022</li>
-</ul>
+
+- *Reductive subgroups associated to points in the Bruhat–Tits building*, 2025 Fall Southeastern Sectional Meeting, Tulane University, October 2025
+- *Who lives in the Bruhat–Tits building?*, Student NT Seminar, University of Michigan, September 2025
+- *Character formulas for limits of discrete series of p-adic $`\mathrm{SL}_2`$*, AWS 2025, University of Arizona, March 2025
+- *Some facts about Bruhat–Tits theory*, Student NT Seminar, University of Michigan, February 2025
+- *Twisting up groups*, Student NT Seminar, University of Michigan, January 2025
+- *Shalika germs*, Student NT Seminar, University of Michigan, October 2024
+- *Motivating endoscopy via an example with $`\mathrm{SL}_2`$*, Student NT Seminar, University of Michigan, March 2024
+- *Endoscopy and the Fundamental Lemma*, Student Arithmetic Seminar, University of Michigan, March 2023
+- *Embeddings of Bruhat–Tits buildings*, MLB Colloquium, University of Michigan, April 2022
+
 
 <b><ins>Teaching</ins></b><br>
 In the summer of 2025 I was a teacher for <a href="https://sites.lsa.umich.edu/math-corps/">Math Corps at U(M)<a/>. I have also taught several courses at Michigan as a GSI.
