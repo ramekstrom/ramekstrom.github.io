@@ -15,7 +15,6 @@ My name is Ram Ekstrom and I am a fourth year PhD candidate at the University of
 I obtained my M.Sc through the <a href="https://lsa.umich.edu/math/graduates/GraduateStudentHandbook/the-marjorie-lee-browne-scholars-program.html">Marjorie Lee Browne Scholars Program</a> in 2022. Before that I was an undergraduate at the <a href="https://www.colorado.edu/math/">University of Colorado</a>.
 
 **<ins>Talks</ins>**
-
 Listed below are some of the talks that I have given in the past.
 
 - *Reductive subgroups associated to points in the Bruhat–Tits building*, 2025 Fall Southeastern Sectional Meeting, Tulane University, October 2025
