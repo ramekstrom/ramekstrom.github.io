@@ -1,25 +1,29 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang }}">
 
-<!-- MathJax site-wide -->
-<script>
-  window.MathJax = {
-    tex: {
-      inlineMath: [['$', '$'], ['\\(', '\\)']],
-      displayMath: [['$$','$$'], ['\\[','\\]']]
-    }
-  };
-</script>
-<script async id="MathJax-script"
-  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
-
-  
   <!-- Head -->
   <head>
   {%- if page.redirect -%}
     <meta http-equiv="refresh" content="3; url={{ site.baseurl }}/" />
   {%- endif -%}
   {% include head.html %}
+
+  <!-- MathJax config (inline $...$ and \( ... \)) -->
+  <script>
+    window.MathJax = {
+      tex: {
+        inlineMath: [['$', '$'], ['\\(', '\\)']],
+        displayMath: [['$$','$$'], ['\\[','\\]']],
+        processEscapes: true
+      },
+      options: {
+        // don't try to typeset inside code blocks, etc.
+        skipHtmlTags: ['script','noscript','style','textarea','pre','code']
+      }
+    };
+  </script>
+  <script async id="MathJax-script"
+    src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
   </head>
 
   <!-- Body -->
@@ -68,8 +72,28 @@
     {% include scripts/masonry.html %}
     {% include scripts/misc.html %}
     {% include scripts/badges.html %}
-    {% include scripts/mathjax.html %}
+    {%- comment -%} {% include scripts/mathjax.html %} {%- endcomment -%}
     {% include scripts/analytics.html %}
     {% include scripts/progressBar.html %}
+
+    <!-- Re-typeset math after soft navigations / bfcache restores -->
+    <script>
+      (function () {
+        function typesetMath() {
+          if (window.MathJax && MathJax.typesetPromise) {
+            MathJax.typesetPromise();
+          } else if (window.MathJax && MathJax.typeset) {
+            MathJax.typeset();
+          }
+        }
+        document.addEventListener('DOMContentLoaded', typesetMath);
+        document.addEventListener('turbolinks:load', typesetMath);
+        document.addEventListener('pjax:end', typesetMath);
+        document.addEventListener('swup:contentReplaced', typesetMath);
+        window.addEventListener('pageshow', function (e) {
+          if (e.persisted) typesetMath();
+        });
+      })();
+    </script>
   </body>
 </html>
