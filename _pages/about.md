@@ -4,34 +4,27 @@ title: about
 permalink: /
 subtitle:   <font size="2.5">Email:</font> <font size="2">rekstrom "at umich.edu"</font>
 
-profile:
-  align: right
-  image: new_profile.jpg
-  image_circular: false # crops the image to make it circular
-  address: >
-    <p>East Hall 3860</p>
-    <p>530 Church St</p>
-    <p>Ann Arbor, Michigan USA</p>
-
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-My name is Ram Ekstrom and I am a second year PhD candidate at the University of Michigan. My advisor is <a href="https://dept.math.lsa.umich.edu/~smdbackr/">Stephen DeBacker</a> and I like to think about p-adic reductive groups and harmonic analysis on them.
+My name is Ram Ekstrom and I am a fourth year PhD candidate at the University of Michigan. My advisor is <a href="https://dept.math.lsa.umich.edu/~smdbackr/">Stephen DeBacker</a> and I like to think about p-adic reductive groups, harmonic analysis, and Bruhat-Tits theory.
 
 I obtained my M.Sc through the <a href="https://lsa.umich.edu/math/graduates/GraduateStudentHandbook/the-marjorie-lee-browne-scholars-program.html">Marjorie Lee Browne Scholars Program</a> in 2022. Before that I was an undergraduate at the University of Colorado.
 
-<b><ins>Teaching</ins></b><br>
-I have taught several courses at Michigan as a GSI.
+<b><ins>Talks</ins></b><br>
 <ul>
-  <li>Math 115 (Fall 2023)</li>
-  <li>Math 116 (Winter 2023)</li>
-  <li>Math 215 (Fall 2022)</li>
-  <li>Math 115 (Summer 2022)</li>
-  <li>Math 115 (Fall 2021)</li>
-  <li>Math 115 (Winter 2021)</li>
-  <li>Math 115 (Fall 2020)</li>
+  <li>_Reductive subgroups associated to points in the Bruhat-Tits building_, 2025 Fall Southeastern Sectional Meeting, Tulane University</li>
+</ul>
+
+<b><ins>Teaching</ins></b><br>
+In the summer of 2025 I was a teacher for Math Corps at U(M). I have also taught several courses at Michigan as a GSI.
+<ul>
+  <li>Math 105 (F24) </li>
+  <li>Math 115 (F20, W21, F21, SU22, F23, W24)</li>
+  <li>Math 116 (W23)</li>
+  <li>Math 215 (F22)</li>
 </ul>
 
