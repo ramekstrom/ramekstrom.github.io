@@ -10,20 +10,22 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-My name is Ram Ekstrom and I am a fourth year PhD candidate at the University of Michigan. My advisor is <a href="https://dept.math.lsa.umich.edu/~smdbackr/">Stephen DeBacker</a> and I like to think about $p$-adic reductive groups, harmonic analysis, and Bruhat-Tits theory.
+My name is Ram Ekstrom and I am a fourth year PhD candidate at the University of Michigan. My advisor is [Stephen DeBacker](https://dept.math.lsa.umich.edu/~smdbackr/) and I like to think about $p$-adic reductive groups, harmonic analysis, and Bruhat–Tits theory.
+
 
 I obtained my M.Sc through the <a href="https://lsa.umich.edu/math/graduates/GraduateStudentHandbook/the-marjorie-lee-browne-scholars-program.html">Marjorie Lee Browne Scholars Program</a> in 2022. Before that I was an undergraduate at the <a href="https://www.colorado.edu/math/">University of Colorado</a>.
 
 **<ins>Talks</ins>**
+
 Listed below are some of the talks that I have given in the past.
 
 - *Reductive subgroups associated to points in the Bruhat–Tits building*, 2025 Fall Southeastern Sectional Meeting, Tulane University, October 2025
 - *Who lives in the Bruhat–Tits building?*, Student NT Seminar, University of Michigan, September 2025
-- *Character formulas for limits of discrete series of p-adic $`\mathrm{SL}_2`$*, AWS 2025, University of Arizona, March 2025
+- *Character formulas for limits of discrete series of p-adic $\mathrm{SL}_2$*, AWS 2025, University of Arizona, March 2025
 - *Some facts about Bruhat–Tits theory*, Student NT Seminar, University of Michigan, February 2025
 - *Twisting up groups*, Student NT Seminar, University of Michigan, January 2025
 - *Shalika germs*, Student NT Seminar, University of Michigan, October 2024
-- *Motivating endoscopy via an example with $`\mathrm{SL}_2`$*, Student NT Seminar, University of Michigan, March 2024
+- *Motivating endoscopy via an example with $\mathrm{SL}_2$*, Student NT Seminar, University of Michigan, March 2024
 - *Endoscopy and the Fundamental Lemma*, Student Arithmetic Seminar, University of Michigan, March 2023
 - *Embeddings of Bruhat–Tits buildings*, MLB Colloquium, University of Michigan, April 2022
 
