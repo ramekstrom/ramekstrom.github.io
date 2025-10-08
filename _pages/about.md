@@ -31,12 +31,11 @@ Listed below are some of the talks that I have given in the past.
 - *Embeddings of Bruhat–Tits buildings*, MLB Colloquium, University of Michigan, April 2022
 
 
-<b><ins>Teaching</ins></b><br>
-In the summer of 2025 I was a teacher for <a href="https://sites.lsa.umich.edu/math-corps/">Math Corps at U(M)<a/>. I have also taught several courses at Michigan as a GSI.
-<ul>
-  <li>Math 105 (F24) </li>
-  <li>Math 115 (F20, W21, F21, SU22, F23, W24)</li>
-  <li>Math 116 (W23)</li>
-  <li>Math 215 (F22)</li>
-</ul>
+### Teaching
+In the summer of 2025 I was a teacher for [Math Corps at U(M)](https://sites.lsa.umich.edu/math-corps/). I have also taught several courses at Michigan as a GSI.
+
+- Math 105 (F24)
+- Math 115 (F20, W21, F21, SU22, F23, W24)
+- Math 116 (W23)
+- Math 215 (F22)
 
