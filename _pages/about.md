@@ -1,7 +1,7 @@
 ---
 layout: about
 title:
-permalink:
+permalink: /
 subtitle:   <font size="2.5">Email:</font> <font size="2">rekstrom "at umich.edu"</font>
 
 news: false  # includes a list of news items
