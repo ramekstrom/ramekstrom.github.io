@@ -18,7 +18,7 @@ I obtained my M.Sc through the <a href="https://lsa.umich.edu/math/graduates/Gra
 Listed below are some of the talks that I have given in the past.
 <ul>
   <li><em>Reductive subgroups associated to points in the Bruhat-Tits building</em>, 2025 Fall Southeastern Sectional Meeting, Tulane University, October 2025</li>
-  <li><em>Who lives in the Bruhat-Tits building?</em>, Student Number Theory Seminar, University of Michigan, September 2025</li>
+  <li><em>Who lives in the Bruhat-Tits building?</em>, Student NT Seminar, University of Michigan, September 2025</li>
   <li><em>Character formulas for limits of discrete series of p-adic $`\mathrm{SL}_2`$</em>, AWS 2025, University of Arizona, March 2025</li>
   <li><em>Some facts about Bruhat-Tits theory</em>, Student NT Seminar, University of Michigan, February 2025</li>
   <li><em>Twisting up groups</em>, Student NT Seminar, University of Michigan, January 2025</li>
