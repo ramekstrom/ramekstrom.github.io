@@ -16,7 +16,7 @@ I obtained my M.Sc through the <a href="https://lsa.umich.edu/math/graduates/Gra
 
 <b><ins>Talks</ins></b><br>
 <ul>
-  <li>_Reductive subgroups associated to points in the Bruhat-Tits building_, 2025 Fall Southeastern Sectional Meeting, Tulane University</li>
+  <li><em>Reductive subgroups associated to points in the Bruhat-Tits building</em>, 2025 Fall Southeastern Sectional Meeting, Tulane University</li>
 </ul>
 
 <b><ins>Teaching</ins></b><br>
