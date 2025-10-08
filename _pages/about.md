@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title:
 permalink: /
 subtitle:   <font size="2.5">Email:</font> <font size="2">rekstrom "at umich.edu"</font>
 
