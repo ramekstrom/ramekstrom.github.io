@@ -2,6 +2,18 @@
 layout: default
 ---
 
+<!-- Enable MathJax (inline $...$ and \( ... \)) -->
+<script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$','$$'], ['\\[','\\]']]
+    }
+  };
+</script>
+<script async id="MathJax-script"
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+
 <!-- about.html -->
       <div class="post">
         <header class="post-header">
@@ -10,6 +22,8 @@ layout: default
           </h1>
           <p class="desc">{{ page.subtitle }}</p>
         </header>
+
+      
 
         <article>
           {% if page.profile -%}
