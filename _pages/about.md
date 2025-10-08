@@ -16,7 +16,7 @@ My name is Ram Ekstrom and I am a fourth year PhD candidate at the University of
 I obtained my M.Sc through the [Marjorie Lee Browne Scholars Program](https://lsa.umich.edu/math/graduates/GraduateStudentHandbook/the-marjorie-lee-browne-scholars-program.html) in 2022. Before that I was an undergraduate at the [University of Colorado](https://www.colorado.edu/math/).
 
 ### Papers
-Hopefully more will go here at some point!
+Hopefully more will go here at some point.
 
 - *Reductive subgroups attached to points in the Bruhat–Tits building*, (forthcoming!)
 
