@@ -17,7 +17,6 @@ I obtained my M.Sc through the [Marjorie Lee Browne Scholars Program](https://ls
 
 
 ### Talks
-
 Listed below are some of the talks that I have given in the past.
 
 - *Reductive subgroups associated to points in the Bruhat–Tits building*, 2025 Fall Southeastern Sectional Meeting, Tulane University, October 2025
