@@ -4,6 +4,16 @@ title:
 permalink: /
 subtitle:   <font size="2.5">Email:</font> <font size="2">rekstrom "at umich.edu"</font>
 
+profile:
+  align: right
+  image: building of SL3.png
+  image_circular: false # crops the image to make it circular
+  address: >
+    <p>East Hall 3860</p>
+    <p>530 Church St</p>
+    <p>Ann Arbor, Michigan USA</p>
+
+
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
