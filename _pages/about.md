@@ -9,9 +9,7 @@ profile:
   image: buildingofSL3.png
   image_circular: false # crops the image to make it circular
   address: >
-    <p>East Hall 3860</p>
-    <p>530 Church St</p>
-    <p>Ann Arbor, Michigan USA</p>
+    <p><font size="2">Photo credit: Paul Garrett</font></p>
 
 
 news: false  # includes a list of news items
