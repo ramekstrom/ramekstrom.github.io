@@ -6,7 +6,7 @@ subtitle:   <font size="2.5">Email:</font> <font size="2">rekstrom "at umich.edu
 
 profile:
   align: right
-  image: building of SL3.png
+  image: buildingofSL3.png
   image_circular: false # crops the image to make it circular
   address: >
     <p>East Hall 3860</p>
