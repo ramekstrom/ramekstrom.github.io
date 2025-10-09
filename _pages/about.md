@@ -9,6 +9,7 @@ profile:
   image: buildingofSL3.png
   image_circular: false # crops the image to make it circular
   address: >
+    <p>The building of $\mathrm{SL}_3$!</p>
     <p><font size="2">Photo credit: Paul Garrett</font></p>
 
 
