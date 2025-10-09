@@ -20,7 +20,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-My name is Ram Ekstrom and I am a fourth year PhD candidate at the University of Michigan. My advisor is [Stephen DeBacker](https://dept.math.lsa.umich.edu/~smdbackr/) and I think about $p$-adic reductive groups, harmonic analysis, and Bruhat–Tits theory.
+My name is [Ram Ekstrom](https://lsa.umich.edu/math/people/phd-students/rekstrom.html) and I am a fourth year PhD candidate at the University of Michigan. My advisor is [Stephen DeBacker](https://dept.math.lsa.umich.edu/~smdbackr/) and I think about $p$-adic reductive groups, harmonic analysis, and Bruhat–Tits theory.
 
 
 I obtained my M.Sc through the [Marjorie Lee Browne Scholars Program](https://lsa.umich.edu/math/graduates/GraduateStudentHandbook/the-marjorie-lee-browne-scholars-program.html) in 2022. Before that I was an undergraduate at the [University of Colorado](https://www.colorado.edu/math/).
