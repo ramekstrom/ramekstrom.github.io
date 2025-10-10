@@ -9,7 +9,7 @@ profile:
   image: buildingofSL3.png
   image_circular: false # crops the image to make it circular
   address: >
-    <p>The building of $\mathrm{SL}_3$!</p>
+    <p>A building of A_2$</p>
     <p><font size="2">Photo credit: Paul Garrett</font></p>
 
 
@@ -22,7 +22,7 @@ social: false  # includes social icons at the bottom of the page
 My name is [Ram Ekstrom](https://lsa.umich.edu/math/people/phd-students/rekstrom.html) and I am a fourth year PhD student at the [University of Michigan](https://lsa.umich.edu/math). My advisor is [Stephen DeBacker](https://dept.math.lsa.umich.edu/~smdbackr/) and I think about matters related to $p$-adic reductive groups, harmonic analysis, and Bruhat–Tits theory.
 
 
-I obtained my M.Sc through the [Marjorie Lee Browne Scholars Program](https://lsa.umich.edu/math/graduates/GraduateStudentHandbook/the-marjorie-lee-browne-scholars-program.html) in 2022. Before that I was an undergraduate at the [University of Colorado](https://www.colorado.edu/math/).
+I obtained a M.Sc through the [Marjorie Lee Browne Scholars Program](https://lsa.umich.edu/math/graduates/GraduateStudentHandbook/the-marjorie-lee-browne-scholars-program.html) in 2022. Before that I was an undergraduate at the [University of Colorado](https://www.colorado.edu/math/).
 
 ### Papers
 Hopefully more will go here at some point.
