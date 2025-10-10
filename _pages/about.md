@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>A building of type $A_2$</p>
-    <p><font size="2">Photo credit: [Paul Garrett](https://www-users.cse.umn.edu/~garrett/)</font></p>
+    <p><font size="2">Photo credit: Paul Garrett</font></p>
 
 
 news: false  # includes a list of news items
