@@ -9,7 +9,7 @@ profile:
   image: buildingofSL3.png
   image_circular: false # crops the image to make it circular
   address: >
-    <p>A building of A_2$</p>
+    <p>A building of $A_2$</p>
     <p><font size="2">Photo credit: Paul Garrett</font></p>
 
 
