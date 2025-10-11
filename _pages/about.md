@@ -27,7 +27,9 @@ I obtained a M.Sc through the [Marjorie Lee Browne Scholars Program](https://lsa
 ### Papers
 Hopefully more will go here at some point.
 
+- *An interesting wild torus in $\Sp_4$ over a local field of equicharacteristic 2*, (forthcoming!)
 - *Reductive subgroups attached to points in the Bruhat–Tits building*, (forthcoming!)
+- *A remark on commutators in parahoric subgroups*, (forthcoming!)
 
 ### Talks
 Listed below are some of the talks that I have given in the past.
